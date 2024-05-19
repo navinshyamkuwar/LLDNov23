@@ -7,16 +7,17 @@ import java.util.concurrent.Semaphore;
 
 public class Main {
     public static void main(String[] args) {
-        Set<String> set = new HashSet<>();
-
-        set.add("India");
-        set.add("USA");
-        set.add("China");
-        set.add("UAE");
-        set.add("UK");
-
-        for (String str : set) {
-            System.out.println(str);
+//        Set<String> set = new HashSet<>();
+//
+//        set.add("India");
+//        set.add("USA");
+//        set.add("China");
+//        set.add("UAE");
+//        set.add("UK");
+//
+//        for (String str : set) {
+//            System.out.println(str);
+        System.out.println("Added something for git demo");
         }
     }
 }
